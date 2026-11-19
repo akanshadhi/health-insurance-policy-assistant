@@ -67,7 +67,7 @@ Note: refusal accuracy is not the same as correctness. An app can answer when it
 ## Run it yourself
 
 ```bash
-git clone https://github.com/<akanshadhi>/health-insurance-policy-assistant.git
+git clone https://github.com/akanshadhi/health-insurance-policy-assistant.git
 cd health-insurance-policy-assistant
 pip install -r requirements.txt
 ```
