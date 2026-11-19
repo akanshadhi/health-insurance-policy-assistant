@@ -1,0 +1,10 @@
+﻿id,type,insurer,question,expected_behavior,expected_answer,expected_pages,app_answer,refused,refusal_ok,retrieval_hit,correct,seconds
+Q01,direct,Niva Bupa,What is the initial waiting period before any claim can be made?,answer,30 days from the first policy start for any illness; accident claims are excepted; it does not apply if you have had continuous coverage for more than 12 months,31; 4-5,"I could not find this in the policy documents I have.
+
+This is information from the documents, not insurance or legal advice. Please confirm with your insurer.",yes,no,yes,,21.7
+Q02,direct,Niva Bupa,What is the grace period for paying the renewal premium?,answer,30 days (15 days where the premium is paid monthly),35; 40,"According to Niva Bupa, you can renew your policy within a Grace Period of 30 days (annual installment) at the end of the policy period to maintain continuity of benefits without a break [8]. Coverage is available during this grace period [8]. 
+
+This is information from the documents, not insurance or legal advice. Please confirm with your insurer.",no,yes,yes,,10.0
+Q03,direct,Niva Bupa,Is cataract surgery covered in the first year?,answer,No; a 24 month specific waiting period applies to cataract (accident claims are excepted),30; 4-5,"According to Niva Bupa, cataract surgery is subject to a 24-month specific waiting period for continuous coverage [1, 2, 8]. Therefore, it is not covered in the first year unless the waiting period is reduced due to prior continuous coverage [2]. 
+
+This is information from the documents, not insurance or legal advice. Please confirm with your insurer.",no,yes,yes,,2.8
